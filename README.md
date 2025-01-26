@@ -10,7 +10,7 @@
 ## Avaliação
 
 ![Luís GitHub stats](https://github-readme-stats.vercel.app/api?username=luismucavele&show_icons=true&theme=radical)
-![Luís Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismucavele&layout=compact)
+![Luís Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luismucavele&layout=compact&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
